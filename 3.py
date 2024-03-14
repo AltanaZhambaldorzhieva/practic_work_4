@@ -6,3 +6,4 @@ if correct_answ.lower() in name.lower():
     print('Верно')
 else:
     print('Неверно')
+

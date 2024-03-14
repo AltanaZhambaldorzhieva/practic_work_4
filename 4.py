@@ -5,3 +5,4 @@ if not((answer.lower() == cor_answer_1) or (answer.lower() == cor_answer_2)):
     print("Верно!")
 else:
     print("Неверно!")
+

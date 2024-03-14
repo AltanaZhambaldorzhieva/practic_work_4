@@ -5,3 +5,4 @@ elif kir > ari > ser:
     print(kir)
 else:
     print(ser)
+
